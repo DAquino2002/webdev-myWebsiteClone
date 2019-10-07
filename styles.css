@@ -14,6 +14,53 @@
 }
 #insiderheader{
     position: static;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
+    color: #081E3f;
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; 
+    font-style: normal;
+    font-weight: bold;
+    margin-left: 451px;
+    margin-right: 451px;
+    font-size: .77rem;
+    
+    
+    
+}
+#fiuname{
+    float: left;
+    padding: 10px;
+   
+
+}
+#portal{
+    float: right;
+}
+#portals{
+    float: left;
+    padding: 10px;
+}
+#search{
+    float: left;
+    padding: 10px;
+}
+#headertwo{
+    background: #081E3f;
+    height: 80px;
+}
+#insiderheadertwo{
+    position: static;
+    margin-right: 451px;
+    margin-left: 451px;
+    color: white;
+    
+}
+#fiumainimg{
+    padding: 10px;
+}
+#fiutitle{
+    height: 50px;
+    width: 107px;
+}
+#listnavtwo ul{
+    list-style: none;
+    
 }
