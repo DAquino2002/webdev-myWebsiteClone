@@ -42,6 +42,7 @@
     float: left;
     padding: 10px;
 }
+/* ------ SECOND NAV BAR */
 #headertwo{
     background: #081E3f;
     height: 80px;
@@ -51,16 +52,62 @@
     margin-right: 451px;
     margin-left: 451px;
     color: white;
+    height:80px;
     
 }
 #fiumainimg{
     padding: 10px;
+   
 }
 #fiutitle{
     height: 50px;
     width: 107px;
+    float: left;
+    margin-right: 20px;
 }
-#listnavtwo ul{
-    list-style: none;
+li{
+        display: inline;
+        padding: 10px;
+        font-family: 'Open sans', sans-serif;
+        font-size: 16px;
+        position: relative;
+        margin: 0px;
+        text-align: center;
+        vertical-align: middle;
+        float: left;
+        padding-right: 15.2px;
+        padding-left: 15.2px;
+      
+        
     
+    
+} 
+#navlist{
+    margin: 0px;
+    pad: 0px;
+    height: 50px;
 }
+/* --------- HERO SECTION ------------- */
+
+#herosectioncontainer{
+    height: 720px;
+    width: 1903px;
+    margin: 0px;
+    padding: 0px;
+}
+#video{
+    position: relative;
+    min-width: 100%;
+    min-height: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+  }
+  #herotext{
+    display: block;
+    font-size: 2.5rem;
+    color: white;
+    text-shadow: 0 1px 10px rgba(0,0,0,0.3);
+    font-family: "Bitter",Georgia,Times,"Times New Roman",serif;
+    font-weight: bold;
+  }
