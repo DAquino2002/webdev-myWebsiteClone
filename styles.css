@@ -38,6 +38,16 @@
     float: left;
     padding: 10px;
 }
+#lock{
+    
+    height: 13px;
+    width: 8.63px;
+    float: left;
+    padding-right:5px;
+}
+#locktext{
+    float: right;
+}
 #search{
     float: left;
     padding: 10px;
@@ -118,18 +128,7 @@ li{
     
     
   }
-  /* #herobutton{
-    position: absolute;
-     -webkit-transform: translateX(50%);
-    transform: translateX(50%); 
-   content: "/f023";
-    margin: 0;
-   
-    background: white;
-    border-radius: 6px;
-    color: #081E3f;
-    padding: 10px 20px;
-  }*/
+  
 
   /* --------- WORLDS AHEAD ---------- */
 
@@ -141,14 +140,15 @@ li{
     font-family: "Bitter",Georgia,Times,"Times New Roman",serif;
     font-weight: bold;
     color: #081E3f;
-    padding: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
   }
   #worldstext p{
     font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
     font-size: 1rem;
     font-weight: normal;
     line-height: 1.6;
-    padding-left: 10px;
+    
     padding-bottom: 20px;
 
   }
@@ -157,24 +157,27 @@ li{
 
   #degrees{
       background: #081E3f;
+      padding-top: 28px;
+      padding-bottom: 28px;
       
      
   }
-  #degreestext{
-    margin-left: 451px;
-    margin-right: 451px;
+  #degreesitems{
+    height: 273px;
+    width:1903px;
     padding-bottom: 20px; 
   }
 #text{
     color: white;
-
+    margin-left: 451px;
+    margin-right: 451px;
 }
 #text h2{
     font-family: "Bitter",Georgia,Times,"Times New Roman",serif;
     font-weight: bold;
     margin: 0.1rem 0 0.7rem 0;
     line-height: 1.2em;
-    padding-top: 10px;
+    
 }
 #text p{
     font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
@@ -182,12 +185,23 @@ li{
     font-weight: normal;
     line-height: 1.6;
     margin-bottom: 1.25rem;
+    
 }
+
 #degreesimg{
-    height: 273px;
-    width: 386px;
+    /* height: 273px;
+    width: 386px; */
+    width: 41%;
+    position: relative;
+    padding-left: .9375rem;
+    padding-right: .9375rem;
+    position: relative;
     float: right;
+    padding-top: 16px;
 }
-.degreestext{
+#degreestext{
+    width: 50%;
     float: left;
 }
+
+/* ------- HORIZON SECTION -------- */
