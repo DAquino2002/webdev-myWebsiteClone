@@ -5,196 +5,202 @@
     padding: 0px;
 }
 
+
 /*----- FIRST NAV BAR ------*/
 
-#headerone{
+#headerone {
     background: white;
     height: 32px;
-
 }
-#insiderheader{
+
+#insiderheader {
     position: static;
     color: #081E3f;
-    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; 
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
     font-style: normal;
     font-weight: bold;
     margin-left: 451px;
     margin-right: 451px;
     font-size: .77rem;
-    
-    
-    
 }
-#fiuname{
+
+#fiuname {
     float: left;
     padding: 10px;
-   
-
 }
-#portal{
+
+#portal {
     float: right;
 }
-#portals{
+
+#portals {
     float: left;
     padding: 10px;
 }
-#lock{
-    
+
+#lock {
     height: 13px;
     width: 8.63px;
     float: left;
-    padding-right:5px;
+    padding-right: 5px;
 }
-#locktext{
+
+#locktext {
     float: right;
 }
-#search{
+
+#search {
     float: left;
     padding: 10px;
     width: 100px;
 }
-#searchimg{
+
+#searchimg {
     height: 13px;
     width: 8.63px;
-    float: left; 
+    float: left;
     padding-right: 5px;
 }
+
+
 /* ------ SECOND NAV BAR */
-#headertwo{
+
+#headertwo {
     background: #081E3f;
     height: 80px;
 }
-#insiderheadertwo{
+
+#insiderheadertwo {
     position: static;
     margin-right: 451px;
     margin-left: 451px;
     color: white;
-    height:80px;
-    
+    height: 80px;
 }
-#fiumainimg{
+
+#fiumainimg {
     padding: 10px;
-   
 }
-#fiutitle{
+
+#fiutitle {
     height: 50px;
     width: 107px;
     float: left;
     margin-right: 20px;
 }
-li{
-        display: inline;
-        padding: 10px;
-        font-family: 'Open sans', sans-serif;
-        font-size: 14px;
-        position: relative;
-        margin: 0px;
-        text-align: center;
-        vertical-align: middle;
-        float: left;
-        padding-right: 15.2px;
-        padding-left: 15.2px;
-        font-weight: bold;
-      
-        
-    
-    
-} 
-#navlist{
+
+li {
+    display: inline;
+    padding: 10px;
+    font-family: 'Open sans', sans-serif;
+    font-size: 14px;
+    position: relative;
+    margin: 0px;
+    text-align: center;
+    vertical-align: middle;
+    float: left;
+    padding-right: 15.2px;
+    padding-left: 15.2px;
+    font-weight: bold;
+}
+
+#navlist {
     margin: 0px;
     pad: 0px;
     height: 50px;
 }
+
+
 /* --------- HERO SECTION ------------- */
 
-#herosectioncontainer{
+#herosectioncontainer {
     height: 720px;
     width: 1903px;
     margin: 0px;
     padding: 0px;
 }
-#video{
+
+#video {
     position: relative;
     min-width: 100%;
     height: 720px;
     margin: 0px;
     padding: 0px;
-    
-  }
-  #herotext{
+}
+
+#herotext {
     display: inline;
     position: absolute;
     font-size: 1.25rem;
     color: white;
-    text-shadow: 0 1px 10px rgba(0,0,0,0.3);
-    font-family: "Bitter",Georgia,Times,"Times New Roman",serif;
+    text-shadow: 0 1px 10px rgba(0, 0, 0, 0.3);
+    font-family: "Bitter", Georgia, Times, "Times New Roman", serif;
     font-weight: bold;
-    top: 350px;
+    top: 450px;
     left: 25%;
-    
-    
-  }
-  
+}
 
-  /* --------- WORLDS AHEAD ---------- */
 
-  #worldstext{
-       margin-left: 451px; 
-       margin-right: 451px; 
-  }
-  #worldstext h2{
-    font-family: "Bitter",Georgia,Times,"Times New Roman",serif;
+/* --------- WORLDS AHEAD ---------- */
+
+#worldstext {
+    margin-left: 451px;
+    margin-right: 451px;
+}
+
+#worldstext h2 {
+    font-family: "Bitter", Georgia, Times, "Times New Roman", serif;
     font-weight: bold;
     color: #081E3f;
     padding-bottom: 10px;
     padding-top: 20px;
-  }
-  #worldstext p{
-    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+
+#worldstext p {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
     font-size: 1rem;
     font-weight: normal;
     line-height: 1.6;
-    
     padding-bottom: 20px;
+}
 
-  }
 
-  /* --------- DEGREES ------------ */
+/* --------- DEGREES ------------ */
 
-  #degrees{
-      background: #081E3f;
-      padding-top: 28px;
-      padding-bottom: 28px;
-      
-     
-  }
-  #degreesitems{
+#degrees {
+    background: #081E3f;
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+
+#degreesitems {
     height: 273px;
-    width:1903px;
-    padding-bottom: 20px; 
-  }
-#text{
+    width: 1903px;
+    padding-bottom: 20px;
+}
+
+#text {
     color: white;
     margin-left: 451px;
     margin-right: 451px;
 }
-#text h2{
-    font-family: "Bitter",Georgia,Times,"Times New Roman",serif;
+
+#text h2 {
+    font-family: "Bitter", Georgia, Times, "Times New Roman", serif;
     font-weight: bold;
     margin: 0.1rem 0 0.7rem 0;
     line-height: 1.2em;
-    
 }
-#text p{
-    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+
+#text p {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
     font-size: 1rem;
     font-weight: normal;
     line-height: 1.6;
     margin-bottom: 1.25rem;
-    
 }
 
-#degreesimg{
+#degreesimg {
     width: 41%;
     position: relative;
     padding-left: .9375rem;
@@ -203,179 +209,198 @@ li{
     float: right;
     padding-top: 16px;
 }
-#degreestext{
+
+#degreestext {
     width: 50%;
     float: left;
 }
 
+
 /* ------- HORIZON SECTION -------- */
 
-#horizoncontainer{
+#horizoncontainer {
     background: white;
     height: 265px;
     width: 1903px;
 }
-#horizonimgcontainer{
+
+#horizonimgcontainer {
     margin-left: 451px;
     float: left;
-    
 }
-#horizonimg{
+
+#horizonimg {
     position: relative;
     height: 240px;
     width: 470px;
     padding-right: 20px;
 }
-#horizontext h2{
-    font-family: "Bitter",Georgia,Times,"Times New Roman",serif;
+
+#horizontext h2 {
+    font-family: "Bitter", Georgia, Times, "Times New Roman", serif;
     font-weight: bold;
     color: #081E3f;
     padding-bottom: 10px;
     padding-top: 20px;
 }
-#horizontext p{
-    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+
+#horizontext p {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
     font-size: 1rem;
     font-weight: normal;
     line-height: 1.6;
     margin-bottom: 1.25rem;
     color: gray;
 }
-#horizontext p:nth-child(n + 3){
+
+#horizontext p:nth-child(n + 3) {
     color: #081E3f;
     font-weight: bold;
     -webkit-font-smoothing: antialiased;
 }
 
-  /* --------- INTERNATIONAL ------------ */
 
-  #internationalcontainer{
-      height: 900px;
-      width: 1903px;
-      background-image: url(https://www.fiu.edu/_assets/images/miami.jpg);
-      background-size: cover;
-      background-repeat: no-repeat;
-  }
-  #internationalcontent{
-        padding-top: 64px;
-  }
-  #internationalbox{
+/* --------- INTERNATIONAL ------------ */
+
+#internationalcontainer {
+    height: 900px;
+    width: 1903px;
+    background-image: url(https://www.fiu.edu/_assets/images/miami.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#internationalcontent {
+    padding-top: 64px;
+}
+
+#internationalbox {
     margin-left: 617px;
     height: 254px;
     width: 602px;
     padding: 32px;
     background-color: #081E3f;
-    color:white;
-  }
-  #internationalbox h2{
+    color: white;
+}
+
+#internationalbox h2 {
     margin-bottom: 10px;
-    font-family: "Bitter",Georgia,Times,"Times New Roman",serif;
+    font-family: "Bitter", Georgia, Times, "Times New Roman", serif;
     font-weight: bold;
-  }
-  #internationalbox p{
+}
+
+#internationalbox p {
     margin-bottom: 20px;
-    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
     font-size: 1rem;
     font-weight: normal;
     line-height: 1.6;
-  }
+}
 
-  /* --------- FOOTER ------- */
 
-  #footer{
-      background-color: #081E3f;
-      height: 352px;
-      padding-top: 20px;
+/* --------- FOOTER ------- */
 
-  }
-  #footercontainer{
-      margin-left: 451px;
-      margin-right: 451px;
-      height: 302px;
-      
-  }
-  #firstlist{
-      width: 333px;
-      float: left;
-  }
-  #firstlist h2{
+#footer {
+    background-color: #081E3f;
+    height: 352px;
+    padding-top: 20px;
+}
+
+#footercontainer {
+    margin-left: 451px;
+    margin-right: 451px;
+    height: 302px;
+}
+
+#firstlist {
+    width: 333px;
+    float: left;
+}
+
+#firstlist h2 {
     font-size: 1.1rem;
     display: block;
     color: white;
-    font-family: "Roboto","Verdana","Gill Sans","Lucida Grande","Helvetica Neue",Helvetica,sans-serif;
+    font-family: "Roboto", "Verdana", "Gill Sans", "Lucida Grande", "Helvetica Neue", Helvetica, sans-serif;
     padding-bottom: 5px;
 }
 
-#firstlist p{
-    font-family: "Roboto","Verdana","Gill Sans","Lucida Grande","Helvetica Neue",Helvetica,sans-serif;    
+#firstlist p {
+    font-family: "Roboto", "Verdana", "Gill Sans", "Lucida Grande", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     color: gold;
 }
-#secondlist{
+
+#secondlist {
     width: 333px;
     float: left;
 }
-#secondlist h2{
+
+#secondlist h2 {
     font-size: 1.1rem;
     display: block;
     color: white;
-    font-family: "Roboto","Verdana","Gill Sans","Lucida Grande","Helvetica Neue",Helvetica,sans-serif;
+    font-family: "Roboto", "Verdana", "Gill Sans", "Lucida Grande", "Helvetica Neue", Helvetica, sans-serif;
     padding-bottom: 5px;
 }
-#secondlist p{
-    font-family: "Roboto","Verdana","Gill Sans","Lucida Grande","Helvetica Neue",Helvetica,sans-serif;    
+
+#secondlist p {
+    font-family: "Roboto", "Verdana", "Gill Sans", "Lucida Grande", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     color: gold;
 }
-#secondlist small{
-    font-family: "Roboto","Verdana","Gill Sans","Lucida Grande","Helvetica Neue",Helvetica,sans-serif;    
+
+#secondlist small {
+    font-family: "Roboto", "Verdana", "Gill Sans", "Lucida Grande", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     color: white;
 }
-#lastlist{
+
+#lastlist {
     width: 333px;
     float: left;
 }
-#lastlist img{
+
+#lastlist img {
     position: relative;
     height: 54px;
     width: 300px;
-    padding-bottom : 20px;
+    padding-bottom: 20px;
 }
-#lastlist h2{
+
+#lastlist h2 {
     font-size: 1.1rem;
     display: block;
     color: white;
-    font-family: "Roboto","Verdana","Gill Sans","Lucida Grande","Helvetica Neue",Helvetica,sans-serif;
+    font-family: "Roboto", "Verdana", "Gill Sans", "Lucida Grande", "Helvetica Neue", Helvetica, sans-serif;
     padding-bottom: 5px;
 }
-#lastlist p{
-    font-family: "Roboto","Verdana","Gill Sans","Lucida Grande","Helvetica Neue",Helvetica,sans-serif;    
+
+#lastlist p {
+    font-family: "Roboto", "Verdana", "Gill Sans", "Lucida Grande", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     color: gold;
 }
-#signaturecontainer{
-    
-}
-#signatureblock p{
-   margin-left:500px;
+
+#signaturecontainer {}
+
+#signatureblock p {
+    margin-left: 500px;
     height: 40px;
     width: 970px;
-    font-family: "Roboto","Verdana","Gill Sans","Lucida Grande","Helvetica Neue",Helvetica,sans-serif;    
+    font-family: "Roboto", "Verdana", "Gill Sans", "Lucida Grande", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     color: white;
 }
-#signatureblock small{
-    font-family: "Roboto","Verdana","Gill Sans","Lucida Grande","Helvetica Neue",Helvetica,sans-serif;    
+
+#signatureblock small {
+    font-family: "Roboto", "Verdana", "Gill Sans", "Lucida Grande", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     color: gold;
 }
-
-
-  
